@@ -10,12 +10,6 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 - **Win Detection**: Automatically checks for winning combinations or a draw.
 - **Responsive Design**: The game is playable on both desktop and mobile devices.
 
-## Demo
-
-![Tic Tac Toe Screenshot](screenshot.png)
-
-> Add a screenshot of your game interface here.
-
 ## How to Play
 
 1. Open the game in a web browser.
